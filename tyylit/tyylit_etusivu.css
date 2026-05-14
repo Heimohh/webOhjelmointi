@@ -18,3 +18,8 @@ h2 {
     font-size: 30px;
     color: white;
 }
+
+a {
+    color: white;
+    text-decoration: none;
+}
